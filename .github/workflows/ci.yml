@@ -20,11 +20,13 @@ jobs:
       
       - name: Check out repository code
         uses: actions/checkout@v4
-            
+        with:
+          submodules: recursive
+
       - name: Versions check
-        run: hugo version
+        run: hugo env
 
       - name: Hugo Build
-        run: hugo --verbose
+        run: hugo --logLevel info
 
       - run: echo "This job's status is ${{ job.status }}."

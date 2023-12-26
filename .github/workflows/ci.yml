@@ -29,4 +29,5 @@ jobs:
       - name: Hugo Build
         run: hugo --logLevel info
 
-      - run: echo "This job's status is ${{ job.status }}."
+      - name: List generated files
+        run: ls -lAR public/

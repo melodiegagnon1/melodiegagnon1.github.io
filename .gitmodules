@@ -1,6 +1,6 @@
-[submodule "ocs/themes/ananke"]
-	path = ocs/themes/ananke
+[submodule "themes/ananke"]
+	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "ocs/themes/hugo-blox"]
-	path = ocs/themes/hugo-blox
+[submodule "themes/hugo-blox"]
+	path = themes/hugo-blox
 	url = https://github.com/HugoBlox/hugo-blox-builder.git

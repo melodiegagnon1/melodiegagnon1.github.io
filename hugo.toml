@@ -1,6 +1,17 @@
 # Main config file for Hugo site
+# Ref: https://gohugo.io/getting-started/configuration/
+
 baseURL = 'https://www.orthophoniechezsoi.ca/'
 languageCode = 'fr-ca'
 title = 'Orthophonie chez soi'
 theme = 'ananke'
 # theme = 'hugo-blox'
+copyright = '© 2022 Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.'
+enableGitInfo = 'true'
+enableRobotsTXT = 'true'
+removePathAccents = 'true'
+disableKinds = ['rss', 'section', 'taxonomy', 'term']
+
+[outputs]
+  home = ['html', 'amp']
+  page = ['html', 'amp']

@@ -1,0 +1,6 @@
+# Main config file for Hugo site
+baseURL = 'https://www.orthophoniechezsoi.ca/'
+languageCode = 'fr-ca'
+title = 'Orthophonie chez soi'
+theme = 'ananke'
+# theme = 'hugo-blox'

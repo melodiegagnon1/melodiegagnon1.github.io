@@ -10,10 +10,10 @@ theme = 'ananke'
 # theme = 'arcana'
 
 copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O. '
-enableGitInfo = 'true'
-enableRobotsTXT = 'true'
-removePathAccents = 'true'
-disableKinds = ['rss', 'section', 'taxonomy', 'term']
+enableGitInfo = true
+enableRobotsTXT = false
+removePathAccents = true
+disableKinds = ['RSS', 'section', 'taxonomy', 'term']
 
 [outputs]
   home = ['html', 'amp']

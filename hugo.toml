@@ -6,7 +6,8 @@ languageCode = 'fr-ca'
 title = 'Orthophonie chez soi'
 
 theme = 'ananke'
-# theme = 'hugo-blox'
+# theme = 'blox'
+# theme = 'arcana'
 
 copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O. '
 enableGitInfo = 'true'

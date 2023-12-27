@@ -6,7 +6,12 @@ https://melodiegagnon1.github.io
 https://gohugo.io/
 
 ## Themes
-* https://themes.gohugo.io/themes/blox-tailwind/: https://github.com/HugoBlox/hugo-blox-builder
+### How to add them
+`git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`
+
+### List
+* https://themes.gohugo.io/themes/blox-tailwind
+  * https://github.com/HugoBlox/hugo-blox-builder
 * Default from quik start: https://github.com/theNewDynamic/gohugo-theme-ananke.git
 
 ## Live local test

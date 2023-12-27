@@ -8,7 +8,7 @@ title = 'Orthophonie chez soi'
 theme = 'ananke'
 # theme = 'hugo-blox'
 
-copyright = '2022 Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.'
+copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O. '
 enableGitInfo = 'true'
 enableRobotsTXT = 'true'
 removePathAccents = 'true'

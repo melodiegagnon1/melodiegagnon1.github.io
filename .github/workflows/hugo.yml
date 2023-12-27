@@ -42,7 +42,6 @@ jobs:
       - name: Versions check
         run: hugo env
 
-      # TBD might not be required
       #- name: Install Dart Sass
       #  run: sudo snap install dart-sass
 

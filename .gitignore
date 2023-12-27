@@ -4,3 +4,4 @@ public/
 # temp
 .hugo_build.lock
 
+hugo.deb

@@ -4,3 +4,6 @@
 [submodule "themes/hugo-blox"]
 	path = themes/hugo-blox
 	url = https://github.com/HugoBlox/hugo-blox-builder.git
+[submodule "themes/hugo-arcana"]
+	path = themes/hugo-arcana
+	url = https://github.com/half-duplex/hugo-arcana.git

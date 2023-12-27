@@ -1,9 +1,3 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/hugo-blox"]
-	path = themes/hugo-blox
-	url = https://github.com/HugoBlox/hugo-blox-builder.git
-[submodule "themes/hugo-arcana"]
-	path = themes/hugo-arcana
-	url = https://github.com/half-duplex/hugo-arcana.git

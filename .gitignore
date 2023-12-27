@@ -1,2 +1,6 @@
-# hugo
+### Hugo
+# generated pages
 public/
+# temp
+.hugo_build.lock
+

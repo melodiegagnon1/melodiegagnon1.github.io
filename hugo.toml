@@ -4,17 +4,54 @@
 baseURL = 'https://www.orthophoniechezsoi.ca/'
 languageCode = 'fr-ca'
 title = 'Orthophonie chez soi'
+#subtitle = "Coder and Computer Enthusiast"
+#description = "Michael Schnerring is a coder and computer enthusiast."
+#keywords = ""
+copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.,'
 
-theme = 'ananke'
-# theme = 'blox'
-# theme = 'arcana'
-
-copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O. '
 enableGitInfo = true
 enableRobotsTXT = false
 removePathAccents = true
 disableKinds = ['RSS', 'section', 'taxonomy', 'term']
 
+### Themes
+theme = 'ananke'
+
+# WARN  found no layout file for "amp" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+#theme = 'blox'
+
+# ERROR TOCSS: failed to transform "main.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
+#theme = 'arcana'
+
+
+
+#menuMore = "Show more"
+#writtenBy = "Written by"
+#readMore = "Read more"
+#readOtherPosts = "Read other posts"
+#newerPosts = "Newer posts"
+#olderPosts = "Older posts"
+#minuteReadingTime = "min read"
+#dateFormatSingle = "2006-01-02"
+#dateFormatList = "2006-01-02"
+# leave empty to disable, enter display text to enable
+#lastModDisplay = "modified"
+
+#[languages.en.params.logo]
+#  logoText = "schnerring.net"
+#  logoHomeLink = "/"
+# or
+#
+# path = "/img/your-example-logo.svg"
+# alt = "Your example logo alt text"
+
+#[languages.en.menu]
+#  [[languages.en.menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about"
+
 [outputs]
   home = ['html', 'amp']
   page = ['html', 'amp']
+

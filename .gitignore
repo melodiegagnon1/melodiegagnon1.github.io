@@ -1,7 +1,14 @@
-### Hugo
+### Hugo related ignored files
+
 # generated pages
 public/
-# temp
+
+# temp file when generating
 .hugo_build.lock
 
+# binary download to test
 hugo.deb
+
+# source download to test
+hugo.tar.gz
+bin/

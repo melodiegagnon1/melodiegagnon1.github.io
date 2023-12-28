@@ -15,13 +15,13 @@ removePathAccents = true
 disableKinds = ['RSS', 'section', 'taxonomy', 'term']
 
 ### Themes
-theme = 'ananke'
+#theme = 'ananke'
 
 # WARN  found no layout file for "amp" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 #theme = 'blox'
 
 # ERROR TOCSS: failed to transform "main.scss" (text/x-scss). Check your Hugo installation; you need the extended version to build SCSS/SASS with transpiler set to 'libsass'.: this feature is not available in your current Hugo version, see https://goo.gl/YMrWcn for more information
-#theme = 'arcana'
+theme = 'arcana'
 
 
 #menuMore = "Show more"
@@ -62,6 +62,14 @@ lastModDisplay = "modified"
   weight = 10
 
 [outputs]
-  home = ['html', 'amp']
-  page = ['html', 'amp']
+  home = [
+    'html',
+    #'amp',
+    #'json',
+    ]
+  page = [
+    'html',
+    #'amp',
+    #'json',
+    ]
 

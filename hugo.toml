@@ -24,7 +24,6 @@ theme = 'ananke'
 #theme = 'arcana'
 
 
-
 #menuMore = "Show more"
 #writtenBy = "Written by"
 #readMore = "Read more"
@@ -32,24 +31,35 @@ theme = 'ananke'
 #newerPosts = "Newer posts"
 #olderPosts = "Older posts"
 #minuteReadingTime = "min read"
-#dateFormatSingle = "2006-01-02"
-#dateFormatList = "2006-01-02"
+dateFormatSingle = "2006-01-02"
+dateFormatList = "2006-01-02"
 # leave empty to disable, enter display text to enable
-#lastModDisplay = "modified"
+lastModDisplay = "modified"
 
-#[languages.en.params.logo]
-#  logoText = "schnerring.net"
-#  logoHomeLink = "/"
-# or
-#
-# path = "/img/your-example-logo.svg"
-# alt = "Your example logo alt text"
 
-#[languages.en.menu]
-#  [[languages.en.menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about"
+### Menu:
+[menus]
+[[menus.main]]
+  name = 'Accueil'
+  pageRef = '/'
+  weight = 10
+[[menus.main]]
+  name = 'À propos'
+  pageRef = '/apropos'
+  weight = 20
+[[menus.main]]
+  name = 'Services'
+  pageRef = '/services'
+  weight = 30
+[[menus.main]]
+  name = 'Contact'
+  pageRef = '/contact'
+  weight = 40
+# Not working???
+[[menus.footer]]
+  name = 'Politique de confidentialité'
+  pageRef = '/politique-de-confidentialite'
+  weight = 10
 
 [outputs]
   home = ['html', 'amp']

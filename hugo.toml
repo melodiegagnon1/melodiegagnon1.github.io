@@ -65,3 +65,5 @@ lastModDisplay = "modified"
     #'json',
     ]
 
+[params]
+  custom_css = ["/custom.css"]

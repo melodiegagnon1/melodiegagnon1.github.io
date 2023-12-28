@@ -10,7 +10,7 @@ Saint-Hubert, Qc
 
 514-943-5396
 
-OrthophonieChezSoi@gmail.com
+<OrthophonieChezSoi@gmail.com>
 
 ## Heures d'ouverture
 
@@ -21,4 +21,3 @@ OrthophonieChezSoi@gmail.com
 ## Vacances
 
 Les services font relâche durant la période estivale. Ainsi, les suivis sont suspendus à la fin de l’année scolaire et reprennent en septembre de chaque année. De ce fait, les clients sont avisés des dates précises à chaque année.
-

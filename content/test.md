@@ -24,5 +24,5 @@ Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condi
 
 # Image test
 
-![Example image](/image.png))
-
+![Image test 1](/icon.png))
+{{< figure src="/icon.jpg" alt="icon" >}}

@@ -2,8 +2,7 @@
 
 https://melodiegagnon1.github.io
 
-
-# Hugo Info
+## Hugo Info
 
 https://gohugo.io/
 
@@ -25,7 +24,6 @@ Git:
 * https://github.com/HugoBlox/hugo-blox-builder.git
 * https://github.com/half-duplex/hugo-arcana.git
 
-
 ## Live local test
 
 `hugo server`
@@ -33,3 +31,13 @@ Git:
 ## Generate
 
 `hugo`
+
+## Site TODO
+
+* [x] Understand how to insert images
+* [ ] Understand how to align images
+* [ ] How to link + image
+* [ ] Fix title with "|"
+* [ ] Understand how to customize theme
+* [ ] Fix footer missing
+* [ ] Complete content

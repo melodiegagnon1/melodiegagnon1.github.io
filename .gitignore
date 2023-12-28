@@ -3,6 +3,9 @@
 # generated pages
 public/
 
+# resource cache
+resources/
+
 # temp file when generating
 .hugo_build.lock
 

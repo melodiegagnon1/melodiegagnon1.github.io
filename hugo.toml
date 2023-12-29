@@ -12,7 +12,7 @@ copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.,'
 enableGitInfo = true
 enableRobotsTXT = false
 removePathAccents = true
-#disableKinds = ['RSS', 'section', 'taxonomy', 'term']
+disableKinds = ['RSS', 'section', 'taxonomy', 'term']
 
 ### Themes
 #theme = 'ananke'
@@ -46,16 +46,18 @@ lastModDisplay = "modified"
   name = 'Contact'
   pageRef = '/contact'
   weight = 40
-# TBD: should be in footer
 [[menus.main]]
   name = 'Confidentialité'
   pageRef = '/politique-de-confidentialite'
   weight = 50
-# TBD: remove
+#[[menus.main]]
+#  name = '2'
+#  pageRef = '/index2'
+#  weight = 100
 #[[menus.main]]
 #  name = 'Test'
 #  pageRef = '/test'
-#  weight = 99
+#  weight = 110
 
 # Not working???
 [[menus.footer]]
@@ -78,31 +80,10 @@ lastModDisplay = "modified"
 [params]
   # Remove: "Design: HTML5 UP  Theme"
   attribution = false
+
   # custom_css = ["/custom.css"]
 
-  [[params.social]]
-    title = "Twitter"
-    icon = "fa-twitter"
-    url = "#"
-  [[params.social]]
-    title = "Facebook"
-    icon = "fa-facebook-f"
-    url = "#"
-  [[params.social]]
-    title = "GitHub"
-    icon = "fa-github"
-    url = "#"
-  [[params.social]]
-    title = "LinkedIn"
-    icon = "fa-linkedin-in"
-    url = "#"
-  [[params.social]]
-    title = "Creative Commons"
-    icon = "fa-creative-commons"
-    url = "https://creativecommons.org/"
-
-  [params.footer]
-
+  #[params.footer]
     #[[params.footer.links]]
     #  #header = "Links Section A"
     #[[params.footer.links.links]]
@@ -123,6 +104,27 @@ lastModDisplay = "modified"
     #  url = "#"
 
     #[params.footer.contact_form]
-    #    enabled = false
-    #    header = "Contectez-nous"
-    #    action = ""
+    #  enabled = true
+    #  header = "Contectez-nous"
+    #  action = ""
+
+  #[[params.social]]
+  #  title = "Twitter"
+  #  icon = "fa-twitter"
+  #  url = "#"
+  #[[params.social]]
+  #  title = "Facebook"
+  #  icon = "fa-facebook-f"
+  #  url = "#"
+  #[[params.social]]
+  #  title = "GitHub"
+  #  icon = "fa-github"
+  #  url = "#"
+  #[[params.social]]
+  #  title = "LinkedIn"
+  #  icon = "fa-linkedin-in"
+  #  url = "#"
+  #[[params.social]]
+  #  title = "Creative Commons"
+  #  icon = "fa-creative-commons"
+  #  url = "https://creativecommons.org/"

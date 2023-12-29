@@ -37,7 +37,7 @@ Git:
 * [x] How to insert images
 * [ ] How to align images
 * [ ] Resize images
-* [ ] How to link + image
+* [x] How to link + image
 * [x] Fix title with "|"
 * [ ] Understand how to customize theme
 * [ ] Fix footer missing

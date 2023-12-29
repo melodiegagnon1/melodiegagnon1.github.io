@@ -14,15 +14,11 @@ https://gohugo.io/
 
 ### List
 
-* https://themes.gohugo.io/themes/blox-tailwind
-  * https://github.com/HugoBlox/hugo-blox-builder
-* Default from quik start: https://github.com/theNewDynamic/gohugo-theme-ananke.git
-* Arcana
-
 Git:
 * https://github.com/theNewDynamic/gohugo-theme-ananke.git
 * https://github.com/HugoBlox/hugo-blox-builder.git
-* https://github.com/half-duplex/hugo-arcana.git
+* https://github.com/dewittn/hugo-html5up-alpha.git
+* Currently used: https://github.com/half-duplex/hugo-arcana.git
 
 ## Live local test
 

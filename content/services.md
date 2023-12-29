@@ -1,8 +1,10 @@
-# Services
++++
+title = "Services"
++++
 
 Voici les différents services offerts par Orthophonie chez soi ainsi que les honoraires correspondants.
 
-Les tarifs sont en vigueur à partir du 1er septembre 2023.
+Les tarifs sont en vigueur à partir du 1{{< sup "er" >}} septembre 2023.
 
 ## Évaluation
 

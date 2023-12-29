@@ -1,4 +1,6 @@
-# Politique de confidentialité et protection des renseignements personnels
++++
+title = "Politique de confidentialité et protection des renseignements personnels"
++++
 
 Orthophonie chez soi respecte le droit à la protection des renseignements personnels conformément aux lois du Québec et du Canada relativement à la protection de la vie privée.
 

@@ -1,3 +1,10 @@
++++
+title = 'test'
+description = "All content, all the time."
+image = "images/banner.jpg"
+image_alt = "Banner image"
++++
+
 # Heading 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt sodales leo ut porta. Aenean fringilla nunc lacus. Donec posuere libero ac massa dapibus dapibus. Suspendisse fringilla non nulla gravida tempor. Fusce eu orci diam. Praesent gravida a odio et accumsan. Donec vel nunc in massa luctus porta. Nunc non vestibulum mi.

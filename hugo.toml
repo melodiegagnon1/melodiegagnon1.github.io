@@ -7,7 +7,7 @@ title = 'Orthophonie chez soi'
 subtitle = 'Mélodie Gagnon, orthophoniste, M.P.O.'
 #description = ""
 #keywords = ""
-copyright = 'Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.,'
+copyright = '© 2023 Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.'
 
 enableGitInfo = true
 enableRobotsTXT = false
@@ -22,6 +22,9 @@ disableKinds = ['RSS', 'section', 'taxonomy', 'term']
 
 # Home page empty: refer to data/homepage.yml
 theme = 'arcana'
+
+# Strange...
+#theme = 'alpha'
 
 dateFormatSingle = "2006-01-02"
 dateFormatList = "2006-01-02"

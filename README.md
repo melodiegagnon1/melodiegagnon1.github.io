@@ -34,6 +34,7 @@ Git:
 
 ## Site TODO
 
+* [ ] Update arcana submodule to use my fork: (new branch) https://github.com/mathieugouin/hugo-arcana.git
 * [x] How to insert images
 * [ ] How to align images
 * [ ] Resize images

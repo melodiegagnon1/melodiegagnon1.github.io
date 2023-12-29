@@ -22,7 +22,12 @@ Donec consectetur sed tortor sed porttitor. Suspendisse arcu eros, pulvinar tinc
 
 Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condimentum justo. In in fringilla mauris, eu vehicula felis. Duis at sem nec massa bibendum iaculis. Suspendisse laoreet maximus scelerisque. Nullam eleifend accumsan felis ac ultrices. Donec euismod semper augue, in gravida purus consequat eget. Aenean ut maximus risus. Ut porta vulputate neque. Fusce bibendum tristique enim id convallis. Cras ornare, ex interdum malesuada aliquam, metus purus hendrerit lacus, non ultrices risus neque eget odio. Vestibulum luctus pharetra felis, non consequat ligula laoreet a. Quisque posuere, magna non accumsan porta, purus sem tincidunt mauris, nec efficitur sapien nulla ut nisl. Quisque quis aliquam elit. Phasellus id faucibus lacus.
 
-# Image test
+## Image test
 
-![Image test 1](/icon.png))
-{{< figure src="/icon.jpg" alt="icon" >}}
+### Style 1
+
+![Image test 1](/icon.png)
+
+### Style 2
+
+{{< figure src="/icon.png" alt="icon" >}}

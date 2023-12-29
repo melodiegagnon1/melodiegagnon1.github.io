@@ -47,6 +47,16 @@ lastModDisplay = "modified"
   name = 'Contact'
   pageRef = '/contact'
   weight = 40
+# TBD: should be in footer
+[[menus.main]]
+  name = 'Confidentialité'
+  pageRef = '/politique-de-confidentialite'
+  weight = 50
+# TBD: remove
+[[menus.main]]
+  name = 'Test'
+  pageRef = '/test'
+  weight = 99
 # Not working???
 [[menus.footer]]
   name = 'Politique de confidentialité'

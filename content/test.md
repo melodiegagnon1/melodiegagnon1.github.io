@@ -1,5 +1,5 @@
 +++
-title = 'test'
+title = 'Test Page'
 description = "All content, all the time."
 image = "images/banner.jpg"
 image_alt = "Banner image"

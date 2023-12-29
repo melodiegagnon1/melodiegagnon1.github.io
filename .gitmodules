@@ -7,3 +7,6 @@
 [submodule "themes/arcana"]
 	path = themes/arcana
 	url = https://github.com/half-duplex/hugo-arcana.git
+[submodule "themes/alpha"]
+	path = themes/alpha
+	url = https://github.com/dewittn/hugo-html5up-alpha.git

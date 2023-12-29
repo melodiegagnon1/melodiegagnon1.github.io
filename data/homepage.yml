@@ -4,7 +4,7 @@ banner:
   contents: "**Orthophonie chez soi:** _une nouvelle façon de recevoir des services en orthophonie_"
   button:
     contents: "En apprendre plus"
-    url: "#"
+    url: "/apropos"
 
 items:
 
@@ -36,8 +36,9 @@ items:
   #  content_type: posts
   #  max: 4
 
+  # Call To Action
   - type: cta
-    contents: Are you ready to continue your quest?
+    contents: Besoin de services en orthophonie?
     button:
-      contents: Insert Coin
+      contents: "Inscription sur la liste d'attente"
       url: "#"

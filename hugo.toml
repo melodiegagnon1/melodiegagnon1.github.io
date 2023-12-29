@@ -2,6 +2,7 @@
 # Ref: https://gohugo.io/getting-started/configuration/
 
 baseURL = 'https://www.orthophoniechezsoi.ca/'
+defaultContentLanguage = "fr"
 languageCode = 'fr-ca'
 title = 'Orthophonie chez soi'
 subtitle = 'Mélodie Gagnon, orthophoniste, M.P.O.'

@@ -26,7 +26,7 @@ Git:
 
 ## Live local test
 
-`hugo server`
+`hugo server --disableFastRender`
 
 ## Generate
 
@@ -34,8 +34,9 @@ Git:
 
 ## Site TODO
 
-* [x] Understand how to insert images
-* [ ] Understand how to align images
+* [x] How to insert images
+* [ ] How to align images
+* [ ] Resize images
 * [ ] How to link + image
 * [ ] Fix title with "|"
 * [ ] Understand how to customize theme

@@ -20,13 +20,12 @@ removePathAccents = true
 # WARN  found no layout file for "amp" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 #theme = 'blox'
 
-# Home page empty???
-# Footer needs to be cleaned-up
+# Home page empty: refer to data/homepage.yml
 theme = 'arcana'
 
 dateFormatSingle = "2006-01-02"
 dateFormatList = "2006-01-02"
-# leave empty to disable, enter display text to enable
+# TBD: leave empty to disable, enter display text to enable
 lastModDisplay = "modified"
 
 ### Menu:
@@ -53,10 +52,11 @@ lastModDisplay = "modified"
   pageRef = '/politique-de-confidentialite'
   weight = 50
 # TBD: remove
-[[menus.main]]
-  name = 'Test'
-  pageRef = '/test'
-  weight = 99
+#[[menus.main]]
+#  name = 'Test'
+#  pageRef = '/test'
+#  weight = 99
+
 # Not working???
 [[menus.footer]]
   name = 'Politique de confidentialité'
@@ -76,31 +76,53 @@ lastModDisplay = "modified"
     ]
 
 [params]
-#  custom_css = ["/custom.css"]
+  # Remove: "Design: HTML5 UP  Theme"
+  attribution = false
+  # custom_css = ["/custom.css"]
+
+  [[params.social]]
+    title = "Twitter"
+    icon = "fa-twitter"
+    url = "#"
+  [[params.social]]
+    title = "Facebook"
+    icon = "fa-facebook-f"
+    url = "#"
+  [[params.social]]
+    title = "GitHub"
+    icon = "fa-github"
+    url = "#"
+  [[params.social]]
+    title = "LinkedIn"
+    icon = "fa-linkedin-in"
+    url = "#"
+  [[params.social]]
+    title = "Creative Commons"
+    icon = "fa-creative-commons"
+    url = "https://creativecommons.org/"
+
   [params.footer]
 
-    [[params.footer.links]]
-      #header = "Links Section A"
-    [[params.footer.links.links]]
-      title = "Politique de confidentialité"
-      url = "/politique-de-confidentialite"
+    #[[params.footer.links]]
+    #  #header = "Links Section A"
+    #[[params.footer.links.links]]
+    #  title = "Politique de confidentialité"
+    #  url = "/politique-de-confidentialite"
     #[[params.footer.links.links]]
     #  title = "Link 2a"
     #  url = "#"
-
     #[[params.footer.links]]
-    #    header = "Links Section B"
+    #  header = "Links Section B"
     #[[params.footer.links.links]]
-    #    title = "Link 1b"
-    #    url = "#"
-
+    #  title = "Link 1b"
+    #  url = "#"
     #[[params.footer.links]]
-    #    header = "Links Section C"
+    #  header = "Links Section C"
     #[[params.footer.links.links]]
-    #    title = "Link 1c"
-    #    url = "#"
+    #  title = "Link 1c"
+    #  url = "#"
 
     #[params.footer.contact_form]
     #    enabled = false
-    #    header = "Get In Touch"
+    #    header = "Contectez-nous"
     #    action = ""

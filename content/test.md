@@ -34,8 +34,8 @@ Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condi
 
 ### Style 1
 
-![Image test 1](/images/icon.png)
+![Image test 1](/images/icon_160.png)
 
 ### Style 2
 
-{{< figure src="/images/icon.png" alt="icon" >}}
+{{< figure src="/images/icon_160.png" alt="icon" >}}

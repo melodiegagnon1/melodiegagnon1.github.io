@@ -28,17 +28,3 @@ Git:
 ## Generate
 
 `hugo`
-
-## Site TODO
-
-* [ ] Fix empty ul class="icons"
-* [x] Update arcana submodule to use my fork: (new branch) <https://github.com/mathieugouin/hugo-arcana.git>
-* [x] How to insert images
-* [ ] How to align images
-* [ ] Resize images
-* [x] How to link + image
-* [x] Fix title with "|"
-* [x] HTML page lang
-* [ ] Understand how to customize theme
-* [ ] Fix footer menu missing
-* [ ] Complete content

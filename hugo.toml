@@ -8,7 +8,7 @@ title = 'Orthophonie chez soi'
 subtitle = 'Mélodie Gagnon, orthophoniste, M.P.O.'
 #description = ""
 #keywords = ""
-copyright = '© 2023 Orthophonie chez soi — Mélodie Gagnon, orthophoniste, M.P.O.'
+copyright = "&copy; 2021 -- {currentYear} Orthophonie chez soi --- Mélodie Gagnon, orthophoniste, M.P.O."
 
 enableGitInfo = true
 enableRobotsTXT = false

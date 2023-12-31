@@ -84,6 +84,9 @@ theme = 'arcana'
   # Remove: "Design: HTML5 UP  Theme"
   attribution = false
 
+  # Remove: opengraph tags
+  opengraph = false
+
   # custom_css = ["/custom.css"]
 
   #[params.footer]

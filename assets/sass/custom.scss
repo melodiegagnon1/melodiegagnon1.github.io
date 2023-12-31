@@ -6,3 +6,21 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
 
 @import "lib/_custom_vars.scss"
 
+.right {
+    float:right;
+    max-width: 40%;
+    margin-left: 5px
+}
+
+.left {
+    float:left;
+    max-width: 40%;
+    margin-right: 20px
+}
+
+.center {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+

@@ -1,44 +1,51 @@
+# Special config page for the homepage
 banner:
   enable: true
   image: "/feuillage.jpg"
   contents: "**Orthophonie chez soi:** _une nouvelle façon de recevoir des services en orthophonie_"
-  button:
-    contents: "En apprendre plus"
-    url: "/apropos"
+  #button:
+  #  contents: "En apprendre plus"
+  #  url: "/apropos"
 
 items:
 
-  - type: highlights
-    items_per_row: 1
-    items:
-    - title: This Is Important
-      icon: fa-paper-plane
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+  # Automatically includes the content of _index.md
+  - type: homepage-content
+    #heading: "Content heading"
+    #sub_heading: "Content sub_heading"
 
-  - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+  #- type: highlights
+  #  items_per_row: 1
+  #  items:
+  #  - title: This Is Important
+  #    icon: fa-paper-plane
+  #    content: >
+  #      Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+  #      amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+  #  - title: Also Important
+  #    icon: fa-pencil-alt
+  #    content: >
+  #      Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+  #      amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+  #  - title: Probably Important
+  #    icon: fa-wrench
+  #    content: >
+  #      Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+  #      amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 
   #- type: posts
   #  heading: Recent Posts
   #  content_type: posts
   #  max: 4
 
-  # Call To Action
-  - type: cta
-    contents: Besoin de services en orthophonie?
-    button:
-      contents: "Inscription sur la liste d'attente"
-      url: "#"
+  #- type: cta
+  #  contents: Besoin de services en orthophonie?
+  #  button:
+  #    contents: "Inscription sur la liste d'attente"
+  #    # TBD place google form here
+  #    url: "#"
+
+  #- type: heading
+  #  heading: heading A gigantic heading you can use for whatever
+  #  contents: content With a much smaller subtitle hanging out just below it
+

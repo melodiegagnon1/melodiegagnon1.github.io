@@ -1,5 +1,5 @@
 name: Hugo build
-run-name: Hugo CI
+#run-name: Hugo CI
 on:
   push:
     # Do not run on main, because this is already done by hugo.yml

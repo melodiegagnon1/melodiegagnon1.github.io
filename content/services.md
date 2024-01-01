@@ -12,10 +12,10 @@ Le temps nécessaire pour la réalisation de l’évaluation dépend de l’âge
 
 Les interventions étant réalisées au domicile ou dans le milieu de garde, il faut prendre en considération les frais de déplacement en sus.
 
-* Le terme « **préscolaire** » fait référence aux enfants âgés de 0 à 6 ans.
-* Le terme « **scolaire** » fait référence aux enfants âgés de 6 à 10 ans.
-* Le terme « **langage oral** » fait référence aux habiletés langagières réceptives (compréhension) et expressives (vocabulaire, sons, phrases, intentions de communication, habiletés discursives).
-* Le terme « **parole/articulation** » fait référence au développement des sons de la parole et des troubles de l’articulation (par exemple, les sigmatismes).
+* Le terme << **préscolaire** >> fait référence aux enfants âgés de 0 à 6 ans.
+* Le terme << **scolaire** >> fait référence aux enfants âgés de 6 à 10 ans.
+* Le terme << **langage oral** >> fait référence aux habiletés langagières réceptives (compréhension) et expressives (vocabulaire, sons, phrases, intentions de communication, habiletés discursives).
+* Le terme << **parole/articulation** >> fait référence au développement des sons de la parole et des troubles de l’articulation (par exemple, les sigmatismes).
 
 ### Évaluation du langage oral pour la clientèle préscolaire et scolaire
 

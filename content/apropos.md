@@ -8,7 +8,7 @@ Bonjour, je me présente, je suis Mélodie Gagnon, orthophoniste et membre de l�
 
 Ces difficultés étaient souvent reliées à de nombreux diagnostics : prématurité, syndromes, anomalie chromosomique, retard global de développement, déficience intellectuelle, déficience motrice, dysphagie, trachéotomie, trouble du spectre de l’autisme et déficience motrice cérébrale.
 
-Mon parcours professionnel m’a permis de développer des compétences touchant plusieurs domaines de pratique et d’expérimenter différents rôles : clinicienne, coordonnatrice clinique, responsable de stages cliniques, superviseure de stage, animatrice de formations destinées aux parents et intervenants, et auteure de « Cap sur les mots », une formation de parents en orthophonie située sur le site du CHU Sainte-Justine.
+Mon parcours professionnel m’a permis de développer des compétences touchant plusieurs domaines de pratique et d’expérimenter différents rôles : clinicienne, coordonnatrice clinique, responsable de stages cliniques, superviseure de stage, animatrice de formations destinées aux parents et intervenants, et auteure de << Cap sur les mots >>, une formation de parents en orthophonie située sur le site du CHU Sainte-Justine.
 
 Passionnée de mon domaine d’étude, ma reconnaissance est d’être témoin de l’épanouissement de mes petits clients grâce au développement de leurs habiletés communicatives, langagières et de parole.
 

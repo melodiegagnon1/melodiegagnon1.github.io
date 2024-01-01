@@ -1,7 +1,7 @@
 # Special config page for the homepage
 banner:
   enable: true
-  image: "/feuillage.jpg"
+  image: "/images/feuillage.jpg"
   contents: "**Orthophonie chez soi:** _une nouvelle façon de recevoir des services en orthophonie_"
   #button:
   #  contents: "En apprendre plus"

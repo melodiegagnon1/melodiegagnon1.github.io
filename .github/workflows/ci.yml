@@ -34,7 +34,7 @@ jobs:
         run: hugo env
 
       - name: Hugo Build
-        run: hugo --logLevel info
+        run: hugo --logLevel info --gc
 
       - name: List generated files
         run: ls -lAR public/

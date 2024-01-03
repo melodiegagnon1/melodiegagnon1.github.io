@@ -11,7 +11,7 @@ subtitle = 'Mélodie Gagnon, orthophoniste, M.P.O.'
 copyright = "&copy; 2021 -- {currentYear} Orthophonie chez soi --- Mélodie Gagnon, orthophoniste, M.P.O."
 
 enableGitInfo = true
-enableRobotsTXT = false
+enableRobotsTXT = true
 removePathAccents = true
 #disableKinds = ['RSS', 'section', 'taxonomy', 'term']
 

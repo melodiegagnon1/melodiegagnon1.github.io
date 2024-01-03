@@ -20,7 +20,7 @@ Par le bias de notre site web, lorsque vous vous inscrivez sur notre liste d'att
 
 ## Utilisation des informations
 
-Nous utilisons les informations collectées pour :
+Nous utilisons les informations collectées pour{{<nbsp>}}:
 
 * Fournir et personnaliser nos services
 * Améliorer notre site web
@@ -53,4 +53,4 @@ Si vous avez des questions concernant cette politique de confidentialité, veuil
 
 Responsable des données: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
 
-Dernière mise à jour : 2023-12-13
+Dernière mise à jour{{<nbsp>}}: 2023-12-13

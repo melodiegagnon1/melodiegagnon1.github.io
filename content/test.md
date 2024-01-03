@@ -3,7 +3,8 @@ title = 'Test Page'
 description = "All content, all the time."
 image = "images/banner.jpg"
 image_alt = "Banner image"
-tags = ['tag1', 'tag2', 'tag3']
+tags = ['testpage', 'tag1', 'tag2', 'tag3']
+categories = ['category1', 'category2', 'category3']
 +++
 
 # Heading 1

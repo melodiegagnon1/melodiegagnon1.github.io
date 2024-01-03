@@ -2,7 +2,7 @@
 title = "À propos"
 +++
 
-{{< figure src="/images/Melodie.jpg" alt="Photo de Mélodie Gagnon" width="100%" height="100%" class="left" >}}
+{{< figure src="/images/Melodie.jpg" alt="Photo de Mélodie Gagnon" class="left" >}}
 
 Bonjour, je me présente, je suis Mélodie Gagnon, orthophoniste et membre de l’Ordre des Orthophonistes et Audiologistes du Québec. Depuis l’obtention de mon diplôme de maîtrise professionnelle en orthophonie de l’Université de Montréal en 2006, j’ai été travailleuse autonome au sein d’une clinique privée (2006 à 2011) et employée d’un centre de réadaptation (2006 à 2022). Au sein de ces deux milieux, j’ai travaillé auprès de plusieurs clientèles pédiatriques : difficultés de langage, trouble développemental du langage, trouble du langage associé à une condition biomédicale, trouble du développement des sons de la parole, troubles de la parole (bégaiement, résonance, articulation) et suppléance à la communication.
 

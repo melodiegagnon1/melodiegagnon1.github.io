@@ -13,7 +13,12 @@ copyright = "&copy; 2021 -- {currentYear} Orthophonie chez soi --- Mélodie Gagn
 enableGitInfo = true
 enableRobotsTXT = true
 removePathAccents = true
-#disableKinds = ['RSS', 'section', 'taxonomy', 'term']
+disableKinds = [
+  'RSS',
+  'section',
+  'taxonomy',  # categories & associated page
+  'term',  # tags listing & associated page
+]
 
 ### Themes
 #theme = 'ananke'

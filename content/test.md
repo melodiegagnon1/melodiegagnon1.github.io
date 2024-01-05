@@ -45,12 +45,12 @@ Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condi
 
 ### Internal link
 
-[Test](/test)
+No title: [Test](/test)
 
-[Test](/test "Test link")
+With title: [Test](/test "Test link")
 
 ### External link
 
-[Pizza](https://en.wikipedia.org/wiki/Pizza)
+No title: [Pizza](https://en.wikipedia.org/wiki/Pizza)
 
-[Pizza](https://en.wikipedia.org/wiki/Pizza "Yum Yum")
+With title: [Pizza](https://en.wikipedia.org/wiki/Pizza "Yum Yum")

@@ -34,3 +34,18 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
     margin: auto;
     text-align: center;
 }
+
+/*
+Remove ugly link border on image.
+
+Typical use-case:
+{{< figure src="a.png" alt="x" width="10" height="10" link="https://www.xyz.com/" target="_blank" >}}
+
+The HTML output is:
+figure, a, img
+*/
+figure {
+    a {
+        border-bottom: none;
+    }
+}

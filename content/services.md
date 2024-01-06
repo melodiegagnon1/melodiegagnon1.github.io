@@ -6,6 +6,8 @@ Voici les différents services offerts par Orthophonie chez soi ainsi que les ho
 
 Les tarifs sont en vigueur à partir du 1{{<sup "er">}} septembre 2023.
 
+{{< table_of_content >}}
+
 ## Évaluation
 
 Le temps nécessaire pour la réalisation de l'évaluation dépend de l'âge, la problématique et la collaboration de l'enfant.

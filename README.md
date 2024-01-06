@@ -6,7 +6,11 @@
 
 <https://gohugo.io/>
 
-## Themes
+## Useful info
+
+* Whitespace: <https://gohugo.io/templates/introduction/#whitespace>
+
+## Hugo Themes
 
 ### How to add them
 
@@ -27,4 +31,4 @@ Git:
 
 ## Generate
 
-`hugo`
+`hugo --gc`

@@ -4,7 +4,7 @@ Ref: https://themes.gohugo.io/themes/hugo-arcana/
 You can add your own styles in your site’s assets/sass/custom.scss, which is included at the end of the theme’s main.scss.
 */
 
-@import "lib/_custom_vars.scss";
+// @import "lib/_custom_vars.scss";
 
 .right {
     float: right;
@@ -49,3 +49,12 @@ figure {
         border-bottom: none;
     }
 }
+
+// For the header image
+#header {
+    img {
+        vertical-align: middle;
+        //height: 40px;
+    }
+}
+

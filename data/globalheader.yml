@@ -1,2 +1,11 @@
-# For the top title
-title: "Orthophonie chez soi"
+# For the top title.  Default title is the site title.
+#title: "Orthophonie chez soi"
+
+# To force empty title
+#title: ""
+
+image:
+  src: '/images/icon_160.png'
+  alt: 'Logo Orthophonie chez soi'
+  width: 40
+  height: 40

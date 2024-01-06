@@ -28,6 +28,6 @@ Ma mission est d'accompagner les enfants afin qu'ils s'épanouissent en dévelop
 
 ## Membre
 
-{{< figure src="/images/OOAQ.jpg" alt="Ordre des orthophonistes et audiologistes du Québec" width="266" link="https://www.ooaq.qc.ca" >}}
+{{< figure src="/images/OOAQ.jpg" alt="Ordre des orthophonistes et audiologistes du Québec" width="266" link="https://www.ooaq.qc.ca" target="_blank" >}}
 
-{{< figure src="/images/AQOA.png" alt="Association québécoise des orthophonistes et audiologistes" width="266" link="https://www.aqoa.qc.ca/fr" >}}
+{{< figure src="/images/AQOA.png" alt="Association québécoise des orthophonistes et audiologistes" width="266" link="https://www.aqoa.qc.ca/fr" target="_blank" >}}

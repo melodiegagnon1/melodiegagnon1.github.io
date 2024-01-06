@@ -54,3 +54,5 @@ With title: [Test](/test "Test link")
 No title: [Pizza](https://en.wikipedia.org/wiki/Pizza)
 
 With title: [Pizza](https://en.wikipedia.org/wiki/Pizza "Yum Yum")
+
+Image: {{< figure src="/images/OOAQ.jpg" alt="Ordre des orthophonistes et audiologistes du Québec" width="266" link="https://www.ooaq.qc.ca" target="_blank" >}}

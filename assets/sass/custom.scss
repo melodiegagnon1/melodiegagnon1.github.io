@@ -11,6 +11,7 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
     max-width: 45%;
     padding-top: 5px;
     padding-left: 10px;
+    padding-bottom: 5px;
 
     img {
         max-width: 100%;
@@ -22,6 +23,7 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
     max-width: 45%;
     padding-top: 5px;
     padding-right: 10px;
+    padding-bottom: 5px;
 
     img {
         max-width: 100%;
@@ -33,6 +35,8 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
     max-width: 100%;
     margin: auto;
     text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 /*

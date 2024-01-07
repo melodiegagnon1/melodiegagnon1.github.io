@@ -1,23 +1,8 @@
-/* This file intentionally left blank.
- * Put your custom CSS into your (not the theme's) assets/sass/lib/_custom_vars.scss
- */
+// Ref: https://github.com/half-duplex/hugo-arcana/pull/10
+// Still does not work...
 
-// TBD Does not work... file is included, but variable is not overwritten
-// Custom Palette.
-    $palette: (
-        bg: #f7f7f7,
-        fg: #474747,
-        fg-bold: #4c4c4c,
-        fg-light: #999,
-        border: #e0e0e0,
-
-        accent: (
-            bg: #006e24, // OCS Green
-            fg: #fff
-        ),
-        obscure: (
-            bg: #333,
-            bg-bold: #1f1f1f,
-            fg: #c0c0c0
-        )
-    );
+$palette: map_merge($palette, (
+    accent: map_merge(map_get($palette, accent), (
+        bg: #006e24
+    ))
+));

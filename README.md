@@ -23,6 +23,7 @@ Git:
 * <https://github.com/theNewDynamic/gohugo-theme-ananke.git>
 * <https://github.com/HugoBlox/hugo-blox-builder.git>
 * <https://github.com/dewittn/hugo-html5up-alpha.git>
+* <https://github.com/gethinode/hinode.git>: more complex (npm, go, etc... but nice search)
 * Currently used: <https://github.com/half-duplex/hugo-arcana.git>
 
 ## Live local test

@@ -7,6 +7,46 @@ tags = ['tag1', 'tag2', 'tag3']
 categories = ['category1', 'category2', 'category3']
 +++
 
+## Column test
+
+This is a paragraph **before** the columns. Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condimentum justo. In in fringilla mauris, eu vehicula felis. Duis at sem nec massa bibendum iaculis. Suspendisse laoreet maximus scelerisque. Nullam eleifend accumsan felis ac ultrices. Donec euismod semper augue, in gravida purus consequat eget. Aenean ut maximus risus. Ut porta vulputate neque. Fusce bibendum tristique enim id convallis. Cras ornare, ex interdum malesuada aliquam, metus purus hendrerit lacus, non ultrices risus neque eget odio. Vestibulum luctus pharetra felis, non consequat ligula laoreet a. Quisque posuere, magna non accumsan porta, purus sem tincidunt mauris, nec efficitur sapien nulla ut nisl. Quisque quis aliquam elit. Phasellus id faucibus lacus.
+
+{{< column_group_start >}}
+
+* Inside **column** 1
+* Using a shortcode inside column: C{{< sub "3" >}}H{{< sub "**8**" >}}
+
+Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condimentum justo. In in fringilla mauris, eu vehicula felis. Duis at sem nec massa bibendum iaculis. Suspendisse laoreet maximus scelerisque. Nullam eleifend accumsan felis ac ultrices. Donec euismod semper augue, in gravida purus consequat eget. Aenean ut maximus risus. Ut porta vulputate neque. Fusce bibendum tristique enim id convallis. Cras ornare, ex interdum malesuada aliquam, metus purus hendrerit lacus, non ultrices risus neque eget odio. Vestibulum luctus pharetra felis, non consequat ligula laoreet a. Quisque posuere, magna non accumsan porta, purus sem tincidunt mauris, nec efficitur sapien nulla ut nisl. Quisque quis aliquam elit. Phasellus id faucibus lacus.
+
+Donec consectetur sed tortor sed porttitor. Suspendisse arcu eros, pulvinar tincidunt tempor efficitur, rutrum eu odio. Nunc quis viverra nulla. Mauris eget bibendum orci, non pulvinar lectus. Donec ornare tellus eget sodales faucibus. Duis ullamcorper mauris sit amet libero ornare elementum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque posuere volutpat mauris ut interdum. Morbi et est ac arcu vulputate aliquet ac vel lorem. Aliquam pulvinar semper dignissim. Nunc mauris tellus, hendrerit nec fermentum in, viverra a augue. Pellentesque maximus maximus mauris, accumsan gravida nisi.
+
+{{< column_break >}}
+
+* Inside **column** 2
+* Using a shortcode inside column: C{{< sub "3" >}}H{{< sub "**8**" >}}
+
+This column has much less content.
+
+{{< column_group_end >}}
+
+## Shortcodes
+
+### Simple
+
+* C{{% sub "3" %}}H{{% sub "**8**" %}}
+* C{{< sub "3" >}}H{{< sub "**8**" >}}
+
+## Highlight
+
+{{< highlight html "linenos=true" >}}
+  <html>
+    <head>
+      <title>Page title</title>
+    </head>
+    <body>This HTML</body>
+  </html>
+{{< /highlight >}}
+
 # Heading 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt sodales leo ut porta. Aenean fringilla nunc lacus. Donec posuere libero ac massa dapibus dapibus. Suspendisse fringilla non nulla gravida tempor. Fusce eu orci diam. Praesent gravida a odio et accumsan. Donec vel nunc in massa luctus porta. Nunc non vestibulum mi.

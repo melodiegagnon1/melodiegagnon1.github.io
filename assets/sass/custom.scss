@@ -65,3 +65,32 @@ figure {
     }
 }
 
+// For columns
+
+/* Default styles for larger screens */
+.column_group {
+    display: flex;
+
+    // TBD to help differentiate
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid red;
+    background-color: #ded;
+}
+
+.column_content {
+    flex: 1;
+
+    // TBD to help differentiate
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid blue;
+    background-color: #dde;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 840px) {
+    .column_group {
+        flex-direction: column;
+    }
+}

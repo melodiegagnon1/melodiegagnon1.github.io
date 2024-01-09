@@ -1,11 +1,10 @@
 # For the top title.  Default title is the site title.
-#title: "Orthophonie chez soi"
-
 # To force empty title
 #title: ""
 
-image:
-  src: '/images/icon_160.png'
-  alt: 'Logo Orthophonie chez soi'
-  width: 40
-  height: 40
+# TBD disable for now because the "small layout rendering is ugly."
+#image:
+#  src: '/images/icon_160.png'
+#  alt: 'Logo Orthophonie chez soi'
+#  width: 40
+#  height: 40

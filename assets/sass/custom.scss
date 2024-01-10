@@ -6,7 +6,7 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
 
 // @import "lib/_custom_vars.scss";
 
-.right {
+figure.right {
     float: right;
     max-width: 45%;
     padding-top: 5px;
@@ -18,7 +18,7 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
     }
 }
 
-.left {
+figure.left {
     float: left;
     max-width: 45%;
     padding-top: 5px;
@@ -30,7 +30,7 @@ You can add your own styles in your site’s assets/sass/custom.scss, which is i
     }
 }
 
-.center {
+figure.center {
     display: block;
     max-width: 100%;
     text-align: center;
@@ -70,22 +70,15 @@ figure {
 /* Default styles for larger screens */
 .column_group {
     display: flex;
+    flex-flow: row nowrap;
+    column-gap: 2%;
 
-    // TBD to help differentiate
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid red;
-    background-color: #ded;
 }
 
 .column_content {
+    /* One-value syntax: the value must be one of:
+    a valid value for <flex-grow>: then the shorthand expands to flex: <flex-grow> 1 0. */
     flex: 1;
-
-    // TBD to help differentiate
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid blue;
-    background-color: #dde;
 }
 
 /* Media query for smaller screens */

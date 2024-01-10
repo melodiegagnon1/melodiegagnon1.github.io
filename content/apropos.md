@@ -12,7 +12,7 @@ Mon parcours professionnel m'a permis de développer des compétences touchant p
 
 Passionnée de mon domaine d'étude, ma reconnaissance est d'être témoin de l'épanouissement de mes petits clients grâce au développement de leurs habiletés communicatives, langagières et de parole.
 
-Après la naissance de mon 3e petit trésor, j'ai entamé une réflexion approfondie sur mes priorités personnelles et professionnelles, ce qui m'a amené à créer Orthophonie chez soi. Je désire faire une différence en mettant l'accent sur des interventions fonctionnelles et centrées sur les besoins des parents et des enfants au quotidien.
+Après la naissance de mon 3{{<sup e >}} petit trésor, j'ai entamé une réflexion approfondie sur mes priorités personnelles et professionnelles, ce qui m'a amené à créer Orthophonie chez soi. Je désire faire une différence en mettant l'accent sur des interventions fonctionnelles et centrées sur les besoins des parents et des enfants au quotidien.
 
 ## Mission
 
@@ -28,8 +28,16 @@ Ma mission est d'accompagner les enfants afin qu'ils s'épanouissent en dévelop
 
 ## Membre
 
-{{< figure src="/images/OOAQ.jpg" alt="Ordre des orthophonistes et audiologistes du Québec" width="266" link="https://www.ooaq.qc.ca" target="_blank" >}}
+{{< column_group_start >}}
 
-{{<nbsp>}}
+* [Ordre des orthophonistes et audiologistes du Québec](https://www.ooaq.qc.ca "Aller à la page de l'OOAQ")
 
-{{< figure src="/images/AQOA.jpg" alt="Association québécoise des orthophonistes et audiologistes" width="266" link="https://www.aqoa.qc.ca/fr" target="_blank" >}}
+{{< figure src="/images/OOAQ.jpg" alt="Ordre des orthophonistes et audiologistes du Québec" width="266" link="https://www.ooaq.qc.ca" target="_blank" class="center" >}}
+
+{{< column_break >}}
+
+* [Association québécoise des orthophonistes et audiologistes](https://www.aqoa.qc.ca/fr "Aller à la page de l'AQOA")
+
+{{< figure src="/images/AQOA.jpg" alt="Association québécoise des orthophonistes et audiologistes" width="266" link="https://www.aqoa.qc.ca/fr" target="_blank" class="center" >}}
+
+{{< column_group_end >}}

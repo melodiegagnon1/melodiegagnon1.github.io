@@ -6,7 +6,11 @@ Merci de votre intérêt pour les services d'Orthophonie chez soi.
 
 ## Coordonnées
 
-{{< figure src="/images/bonhomes.jpg" alt="Famille de bonhommes Duplo" width="300" >}}
+{{< column_group_start >}}
+
+{{< figure src="/images/bonhomes.jpg" alt="Famille de bonhommes Duplo" width="600" class="center" >}}
+
+{{< column_break >}}
 
 ### Mélodie Gagnon, orthophoniste, M.P.O.
 
@@ -15,6 +19,8 @@ Saint-Hubert, Qc
 514-943-5396
 
 <OrthophonieChezSoi@gmail.com>
+
+{{< column_group_end >}}
 
 ## Heures d'ouverture
 

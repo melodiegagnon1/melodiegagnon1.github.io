@@ -1,5 +1,4 @@
 // Ref: https://github.com/half-duplex/hugo-arcana/pull/10
-// Still does not work...
 
 $palette: map_merge($palette, (
     accent: map_merge(map_get($palette, accent), (

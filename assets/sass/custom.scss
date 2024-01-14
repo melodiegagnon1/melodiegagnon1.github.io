@@ -65,6 +65,20 @@ figure {
     }
 }
 
+ul {
+    padding-left: 1.5em;
+}
+
+h3 {
+    color: _palette(accent, bg);
+    background-color: #ececec;
+    padding-left: 1em;
+    
+    padding-top: 1em;
+    padding-bottom: 1em;
+    //margin-left: -10em;
+}
+
 // For columns
 
 /* Default styles for larger screens */

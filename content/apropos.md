@@ -1,6 +1,8 @@
 +++
-title = "À propos"
+title = 'À propos'
 +++
+
+### Présentation
 
 {{< figure src="/images/Melodie.jpg" alt="Photo de Mélodie Gagnon" class="left" >}}
 
@@ -14,11 +16,11 @@ Passionnée de mon domaine d'étude, ma reconnaissance est d'être témoin de l'
 
 Après la naissance de mon 3{{<sup e >}} petit trésor, j'ai entamé une réflexion approfondie sur mes priorités personnelles et professionnelles, ce qui m'a amené à créer Orthophonie chez soi. Je désire faire une différence en mettant l'accent sur des interventions fonctionnelles et centrées sur les besoins des parents et des enfants au quotidien.
 
-## Mission
+### Mission
 
 Ma mission est d'accompagner les enfants afin qu'ils s'épanouissent en développant leur plein potentiel au plan de la communication, du langage et de la parole.
 
-## Valeurs
+### Valeurs
 
 * Professionnalisme
 * Rigueur
@@ -26,7 +28,7 @@ Ma mission est d'accompagner les enfants afin qu'ils s'épanouissent en dévelop
 * Bienveillance
 * Plaisir
 
-## Membre
+### Membre
 
 {{< column_group_start >}}
 

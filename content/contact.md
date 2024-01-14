@@ -4,7 +4,7 @@ title = 'Contact'
 
 Merci de votre intérêt pour les services d'Orthophonie chez soi.
 
-## Coordonnées
+### Coordonnées
 
 {{< column_group_start >}}
 
@@ -12,7 +12,7 @@ Merci de votre intérêt pour les services d'Orthophonie chez soi.
 
 {{< column_break >}}
 
-### Mélodie Gagnon, orthophoniste, M.P.O.
+#### Mélodie Gagnon, orthophoniste, M.P.O.
 
 Saint-Hubert, Qc
 
@@ -22,13 +22,15 @@ Saint-Hubert, Qc
 
 {{< column_group_end >}}
 
-## Heures d'ouverture
+{{< nbsp >}}
+
+### Heures d'ouverture
 
 * mardi: 8h - 15h
 * mercredi: 8h - 15h
 * jeudi: 8h - 15h
 
-## Vacances
+### Vacances
 
 Les services font relâche durant la période estivale. Ainsi, les suivis sont suspendus à la fin de l'année scolaire et reprennent en septembre de chaque année. De ce fait, les clients sont avisés des dates précises à chaque année.
 

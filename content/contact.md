@@ -12,7 +12,7 @@ Merci de votre intérêt pour les services d'Orthophonie chez soi.
 
 {{< column_break >}}
 
-#### Mélodie Gagnon, orthophoniste, M.P.O.
+**Mélodie Gagnon, orthophoniste, M.P.O.**
 
 Saint-Hubert, Qc
 

@@ -65,4 +65,4 @@ Si vous avez des questions concernant cette politique de confidentialité, ne so
 
 Responsable des données: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
 
-Dernière mise à jour{{<nbsp>}}: 2024-01-14
+Dernière mise à jour{{<nbsp>}}: 2024-01-17

@@ -34,7 +34,7 @@ Lors du début des services en orthophonie, les informations recueilles sur le s
 
 ### Durée de conservation des renseignements personnels
 
-Orthophonie chez soi conserve les renseigements personnels conformément à un calendrier et que pour les fins pour lesquels ils ont été collectés. Les renseignements recueillis sont conservés indéfiniement jusqu'à l'une des situations suivante:
+Orthophonie chez soi conserve les renseigements personnels conformément à un calendrier et que pour les fins pour lesquels ils ont été collectés. Les renseignements recueillis sont conservés indéfiniement jusqu'à l'une des situations suivantes:
 
 * Retrait de la liste d'attente à la demande du parent
 * Retrait de la liste d'attente dans la mesure où la problématique n'est pas desservie par Orthophonie chez soi

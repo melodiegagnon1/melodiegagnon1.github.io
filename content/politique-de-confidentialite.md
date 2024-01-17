@@ -57,7 +57,7 @@ Notre site web peut contenir des liens vers des sites tiers. Nous n'assumons auc
 
 ### Modifications de la politique de confidentialité
 
-Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, aussi nous nous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
+Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, aussi nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
 
 ### Contactez-nous
 

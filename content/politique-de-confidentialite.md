@@ -41,7 +41,7 @@ Orthophonie chez soi conserve les renseigements personnels conformément à un c
 
 ### Sécurité des données
 
-Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) appropriées à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
+Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
 
 ### Partage des informations
 

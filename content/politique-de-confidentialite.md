@@ -34,14 +34,14 @@ Lors du début des services en orthophonie, les informations recueilles sur le s
 
 ### Durée de conservation des renseignements personnels
 
-Orthophonie chez soi conserve les renseigements personnels conformément à un calendrier et que pour les fins pour lesquels ils ont été collectés. Les renseignements recueillis sont conservés indéfiniement jusqu'à l'une des situations suivantes:
+Orthophonie chez soi conserve les renseigements personnels que pour les fins pour lesquelles ils ont été collectés. Les renseignements recueillis sont conservés indéfiniement jusqu'à l'une des situations suivantes:
 
 * Retrait de la liste d'attente à la demande du parent
 * Retrait de la liste d'attente dans la mesure où la problématique n'est pas desservie par Orthophonie chez soi
 
 ### Sécurité des données
 
-Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
+Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex{{<nbsp>}}: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
 
 ### Partage des informations
 
@@ -57,12 +57,12 @@ Notre site web peut contenir des liens vers des sites tiers. Nous n'assumons auc
 
 ### Modifications de la politique de confidentialité
 
-Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, aussi nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
+Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment.  Ainsi, nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
 
 ### Contactez-nous
 
-Si vous avez des questions concernant cette politique de confidentialité, ne souhaitez plus que nous traitons vos données ou si vous avez une demande d'accès, de rectification concernant vos données personnelles, veuillez nous contacter.
+Si vous avez des questions concernant cette politique de confidentialité, ne souhaitez plus que nous traitons vos données, ou si vous avez une demande d'accès ou de rectification concernant vos données personnelles, veuillez nous contacter.
 
-Responsable des données: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
+Responsable des données{{<nbsp>}}: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
 
 Dernière mise à jour{{<nbsp>}}: 2024-01-17

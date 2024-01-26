@@ -30,11 +30,11 @@ Nous utilisons les informations collectées pour{{<nbsp>}}:
 * Vous envoyer des informations pertinentes concernant nos services
 * Améliorer notre site web
 
-Lors du début des services en orthophonie, les informations recueilles sur le site web sont conservées dans votre dossier professionnel papier et électronique, tel qu'exigé par l'[Ordre des orthophonistes et audiologistes du Québec](https://www.ooaq.qc.ca "Aller à la page de l'OOAQ").
+Lors du début des services en orthophonie, les informations recueillies sur le site web sont conservées dans votre dossier professionnel papier et électronique, tel qu'exigé par l'[Ordre des orthophonistes et audiologistes du Québec](https://www.ooaq.qc.ca "Aller à la page de l'OOAQ").
 
 ### Durée de conservation des renseignements personnels
 
-Orthophonie chez soi conserve les renseigements personnels conformément à un calendrier et que pour les fins pour lesquels ils ont été collectés. Les renseignements recueillis sont conservés indéfiniement jusqu'à l'une des situations suivantes:
+Orthophonie chez soi conserve les renseignements personnels conformément à un calendrier et que pour les fins pour lesquels ils ont été collectés. Les renseignements recueillis sont conservés indéfiniement jusqu'à l'une des situations suivantes:
 
 * Retrait de la liste d'attente à la demande du parent
 * Retrait de la liste d'attente dans la mesure où la problématique n'est pas desservie par Orthophonie chez soi
@@ -57,7 +57,7 @@ Notre site web peut contenir des liens vers des sites tiers. Nous n'assumons auc
 
 ### Modifications de la politique de confidentialité
 
-Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, aussi nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
+Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, ainsi nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
 
 ### Contactez-nous
 

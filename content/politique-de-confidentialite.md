@@ -41,7 +41,7 @@ Orthophonie chez soi conserve les renseignements personnels conformément à un 
 
 ### Sécurité des données
 
-Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
+Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex{{<nbsp>}}: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
 
 ### Partage des informations
 
@@ -57,12 +57,12 @@ Notre site web peut contenir des liens vers des sites tiers. Nous n'assumons auc
 
 ### Modifications de la politique de confidentialité
 
-Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment, ainsi nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
+Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette politique de confidentialité à tout moment.  Ainsi, nous vous invitons à la consulter fréquemment. Les modifications seront publiées sur cette page avec une date de révision mise à jour.
 
 ### Contactez-nous
 
-Si vous avez des questions concernant cette politique de confidentialité, ne souhaitez plus que nous traitons vos données ou si vous avez une demande d'accès, de rectification concernant vos données personnelles, veuillez nous contacter.
+Si vous avez des questions concernant cette politique de confidentialité, ne souhaitez plus que nous traitons vos données, ou si vous avez une demande d'accès ou de rectification concernant vos données personnelles, veuillez nous contacter.
 
-Responsable des données: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
+Responsable des données{{<nbsp>}}: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
 
 Dernière mise à jour{{<nbsp>}}: 2024-01-17

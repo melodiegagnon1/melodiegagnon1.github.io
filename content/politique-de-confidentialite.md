@@ -61,7 +61,7 @@ Orthophonie chez soi se réserve le droit de mettre à jour ou de modifier cette
 
 ### Contactez-nous
 
-Si vous avez des questions concernant cette politique de confidentialité, ne souhaitez plus que nous traitons vos données, ou si vous avez une demande d'accès ou de rectification concernant vos données personnelles, veuillez nous contacter.
+Si vous avez des questions concernant cette politique de confidentialité, ne souhaitez plus que nous traitons vos données ou si vous avez une demande d'accès ou de rectification concernant vos données personnelles, veuillez nous contacter.
 
 Responsable des données{{<nbsp>}}: Mélodie Gagnon, <OrthophonieChezSoi@gmail.com>, 514-943-5396
 

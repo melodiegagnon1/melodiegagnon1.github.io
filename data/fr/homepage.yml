@@ -2,7 +2,7 @@
 banner:
   enable: true
   image: "/images/feuillage.jpg"
-  contents: "_Orthophonie chez soi: une nouvelle façon de recevoir des services en orthophonie._"
+  contents: "_Orthophonie chez soi: De l'orthophonie adaptée à votre enfant!_"
   #button:
   #  contents: "En apprendre plus"
   #  url: "/apropos"

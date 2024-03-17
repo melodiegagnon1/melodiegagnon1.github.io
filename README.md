@@ -16,6 +16,11 @@
 
 `git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`
 
+### Update after clone
+
+* `git submodule init`
+* `git submodule update`
+
 ### List
 
 Git:
@@ -43,6 +48,6 @@ Still not clear:
 Shortcodes with markdown
 > Shortcodes using the % as the outer-most delimiter will be fully rendered when sent to the content renderer. This means that the rendered output from a shortcode can be part of the page’s table of contents, footnotes, etc.
 
-Shortcodes without markdown 
+Shortcodes without markdown
 > The < character indicates that the shortcode’s inner content does not need further rendering. Often shortcodes without Markdown include internal HTML:
 

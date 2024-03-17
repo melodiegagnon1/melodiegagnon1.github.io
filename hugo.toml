@@ -1,6 +1,7 @@
 # Main config file for Hugo site
 # Ref: https://gohugo.io/getting-started/configuration/
 
+# TBD MGouin: update when migration to domain
 baseURL = 'https://www.orthophoniechezsoi.ca/'
 defaultContentLanguage = "fr"
 languageCode = 'fr-ca'
@@ -65,20 +66,12 @@ theme = 'arcana'
   name = 'Confidentialité'
   pageRef = '/politique-de-confidentialite'
   weight = 50
-#[[menus.main]]
-#  name = '2'
-#  pageRef = '/index2'
-#  weight = 100
-#[[menus.main]]
-#  name = 'Test'
-#  pageRef = '/test'
-#  weight = 110
 
 # Not working???
-[[menus.footer]]
-  name = 'Politique de confidentialité'
-  pageRef = '/politique-de-confidentialite'
-  weight = 10
+#[[menus.footer]]
+#  name = 'Politique de confidentialité'
+#  pageRef = '/politique-de-confidentialite'
+#  weight = 10
 
 [outputs]
   home = [
@@ -99,7 +92,7 @@ theme = 'arcana'
   # Remove: opengraph tags
   opengraph = false
 
-  # custom_css = ["/custom.css"]
+  #custom_css = ["/custom.css"]
 
   #[params.footer]
     #[[params.footer.links]]

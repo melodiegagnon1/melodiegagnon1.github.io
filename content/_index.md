@@ -12,7 +12,7 @@ Cette modalité d'intervention facilite l'observation des habiletés communicati
 
 ### Comment consulter?
 
-Nous vous invitons à remplir ce court questionnaire nous permettant de cibler sommairement vos besoins et de vous inscrire sur la liste d'attente. Suite à la réception de votre inscription, il nous fera plaisir de vous contacter lorsqu'une disponibilité se libérera.  Il est important de mentionner qu'il nous est impossible d'estimer le temps d'attente étant donné la récente création d'Orthophonie chez soi. Merci de votre compréhension.
+Nous vous invitons à remplir ce court questionnaire nous permettant de cibler sommairement vos besoins et de vous inscrire sur la liste d'attente. Suite à la réception de votre inscription, il nous fera plaisir de vous contacter lorsqu'une disponibilité se libérera.  Il est important de mentionner qu'il y a un délai dans la prise en charge étant donné le nombre important de demandes reçues. Merci de votre compréhension.
 
 ### Liste d'attente
 

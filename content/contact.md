@@ -26,9 +26,9 @@ Saint-Hubert, Qc
 
 ### Heures d'ouverture
 
-* mardi: 8h - 15h
-* mercredi: 8h - 15h
-* jeudi: 8h - 15h
+* mardi: 7h30 - 15h
+* mercredi: 7h30 - 15h
+* jeudi: 7h30 - 15h
 
 ### Vacances
 

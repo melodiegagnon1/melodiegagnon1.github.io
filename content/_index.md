@@ -17,3 +17,5 @@ Nous vous invitons à remplir ce court questionnaire nous permettant de cibler s
 ### Liste d'attente
 
 La liste d'attente est temporairement fermée.  Nous réévaluerons la situation en janvier 2024.  Merci de votre compréhension.
+
+{{< figure src="/images/logo.png" alt="Logo Orthophonie chez soi" width="400" class="center">}}

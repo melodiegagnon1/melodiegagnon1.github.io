@@ -6,7 +6,7 @@ Voici les différents services offerts par Orthophonie chez soi ainsi que les ho
 
 Les tarifs sont en vigueur à partir du 1{{<sup "er">}} septembre 2023.
 
-### List des services
+### Liste des services
 
 {{< table_of_content >}}
 

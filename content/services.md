@@ -78,6 +78,12 @@ Les interventions étant réalisées au domicile ou dans le milieu de garde, il 
 * Analyse des observations et synthèse des résultats
 * Rapport sommaire avec recommandations et conseils
 
+#### Mise à jour d'un plan d'intervention
+
+210 $/h
+
+Si vous avez un rapport d'évaluation récent (réalisé à l'intérieur de 6 à 12 mois), nous pouvons évaluer les progrès de l'enfant par rapport aux objectifs ciblés dans le plan d'intervention précédent et actualiser les objectifs à poursuivre. Cependant, l'orthophoniste jugera si le rapport d'évaluation fourni détient suffisamment d'informations. Si ce n'est pas le cas, des tâches d'évaluation complémentaires devront être réalisées.
+
 ### Intervention
 
 #### Thérapie/rééducation

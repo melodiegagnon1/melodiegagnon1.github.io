@@ -1,0 +1,10 @@
+{{- with .Get "align" -}}
+<p style="text-align: {{ . }};">
+{{- end -}}
+    <a  {{- with .Get "href" }} href="{{ . }}" {{ end }}
+        {{- with .Get "target" }} target="{{ . }}" {{ end }} class="button">
+        {{- .Inner | markdownify -}}
+    </a>
+{{- with .Get "align" -}}
+</p>
+{{- end -}}

@@ -7,6 +7,9 @@ tags = ['tag1', 'tag2', 'tag3']
 categories = ['category1', 'category2', 'category3']
 +++
 
+
+{{< table_of_content >}}
+
 ### Column test
 
 This is a paragraph **before** the columns. Aenean dictum velit eu ligula venenatis cursus non vitae lectus. Morbi vel condimentum justo. In in fringilla mauris, eu vehicula felis. Duis at sem nec massa bibendum iaculis. Suspendisse laoreet maximus scelerisque. Nullam eleifend accumsan felis ac ultrices. Donec euismod semper augue, in gravida purus consequat eget. Aenean ut maximus risus. Ut porta vulputate neque. Fusce bibendum tristique enim id convallis. Cras ornare, ex interdum malesuada aliquam, metus purus hendrerit lacus, non ultrices risus neque eget odio. Vestibulum luctus pharetra felis, non consequat ligula laoreet a. Quisque posuere, magna non accumsan porta, purus sem tincidunt mauris, nec efficitur sapien nulla ut nisl. Quisque quis aliquam elit. Phasellus id faucibus lacus.
@@ -109,3 +112,37 @@ Level 0
 > > Level 2
 > > > Level 3
 > > > > Level 4...
+
+### Buttons
+
+Here are 3 items:
+a
+b
+c
+
+Here are 3 buttons: {{< button >}}Button 1{{< /button >}}
+{{< button href="#" >}}Button 2{{< /button >}}
+{{< button href="#" target="_blank" >}}Button 3{{< /button >}}
+
+
+Here is a button on it's own:
+
+{{< button align="left" >}}Button Left 1{{< /button >}}
+
+{{< button align="left" >}}Button Left 2{{< /button >}}
+
+{{< button align="left" >}}Button Left 3{{< /button >}}
+
+{{< button align="center" >}}Button Center 1{{< /button >}}
+
+{{< button align="center" >}}Button Center 2{{< /button >}}
+
+{{< button align="center" >}}Button Center 3{{< /button >}}
+
+{{< button align="right" >}}Button Right 1{{< /button >}}
+
+{{< button align="right" >}}Button Right 2{{< /button >}}
+
+{{< button align="right" >}}Button Right 3{{< /button >}}
+
+And here are some closing toughts...

@@ -61,8 +61,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --logLevel info \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --logLevel info
+            # --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2

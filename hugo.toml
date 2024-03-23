@@ -63,7 +63,7 @@ theme = 'arcana'
   weight = 40
 [[menus.main]]
   name = 'Confidentialité'
-  pageRef = '/politique-de-confidentialite'
+  pageRef = '/confidentialite'
   weight = 50
 
 # Not working???

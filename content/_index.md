@@ -18,4 +18,4 @@ Nous vous invitons à remplir ce court questionnaire nous permettant de cibler s
 target="_blank"
 href="https://docs.google.com/forms/d/e/1FAIpQLSd6CxQlfaE3MNvfnH5A1L5XYYniLFnLLt71JGXiVmDOkLmHew/viewform?usp=sf_link" >}}Inscription sur la liste d'attente{{< /button >}}
 
-{{< figure src="/images/logo.png" alt="Logo Orthophonie chez soi" width="400" class="center">}}
+{{< figure src="/images/logo.png" alt="Logo Orthophonie chez soi" width="400" height="127" class="center">}}

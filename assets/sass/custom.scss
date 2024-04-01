@@ -77,9 +77,9 @@ ul {
 article {
     h3 {
         color: _palette(accent, bg);
-        background-color: #ececec;
-        padding-left: 1em;
-
+        //background-color: #ececec;
+        border-image: conic-gradient(#ececec 0 0) fill 0//0 100vw;
+        //padding-left: 1em;
         padding-top: 1em;
         padding-bottom: 1em;
         //margin-left: -10em;

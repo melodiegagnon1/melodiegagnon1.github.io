@@ -6,8 +6,6 @@ defaultContentLanguage = "fr"
 languageCode = 'fr-ca'
 title = 'Orthophonie chez soi'
 subtitle = 'Mélodie Gagnon, orthophoniste, M.P.O.'
-#description = ""
-#keywords = ""
 copyright = "&copy; 2021 -- {currentYear} Orthophonie chez soi --- Mélodie Gagnon, orthophoniste, M.P.O."
 
 enableGitInfo = true

@@ -1,5 +1,6 @@
 +++
 title = 'Contact'
+description = "Vous désirez entrez en contact avec nous, voici nos coordonnées et heures d'ouverture."
 +++
 
 Merci de votre intérêt pour les services d'Orthophonie chez soi.

@@ -9,3 +9,9 @@
         <meta name="application-name" content="Orthophonie chez soi">
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="theme-color" content="#ffffff">
+
+        {{ if .Description }}
+        <meta name="description" content="{{ .Description }}">
+        {{ else if .IsPage }}
+        <meta name="description" content="{{ .Summary | plainify }}">
+        {{ end }}

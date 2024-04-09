@@ -1,5 +1,6 @@
 +++
 title = 'Services'
+description = "Orthophonie chez soi offre plusieurs services.  Consultez-les ici pour vous assurez qu'ils correspondent à vos besoin.  Les services sont divisés en 3 grande catégories: évaluation, intervention et autres."
 +++
 
 Voici les différents services offerts par Orthophonie chez soi ainsi que les honoraires correspondants.

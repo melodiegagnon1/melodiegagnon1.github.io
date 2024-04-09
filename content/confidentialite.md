@@ -1,5 +1,6 @@
 +++
 title = 'Politique de confidentialité et protection des renseignements personnels'
+description = "Politique de confidentialité: renseignements personnels collectés, utilisation des renseignements personnels, durée de conservation des renseignements personnels, cookies"
 +++
 
 Orthophonie chez soi respecte le droit à la protection des renseignements personnels conformément aux lois du Québec et du Canada relativement à la protection de la vie privée.
@@ -41,7 +42,7 @@ Orthophonie chez soi conserve les renseignements personnels et que pour les fins
 
 ### Sécurité des données
 
-Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex{{<nbsp>}}: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès. 
+Orthophonie chez soi s'engage à protéger vos renseignements personnels. Nous mettons en place des mesures de sécurité appropriées (physiques, techniques ou administratives) à la nature de ceux-ci, et ce, pour empêcher tout accès non autorisé, divulgation, altération ou destruction de vos données. Nous nous assurons que les tiers avec lesquels nous faisons affaire (ex{{<nbsp>}}: adjoint administratif, programmeur) protègent la confidentialité des renseignements auxquels ils ont accès.
 
 ### Partage des informations
 

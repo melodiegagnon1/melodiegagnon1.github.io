@@ -1,5 +1,6 @@
 +++
 title = "Orthophonie chez soi"
+description = "Orthophonie chez soi: De l'orthophonie adaptée à votre enfant!  Mélodie Gagnon, orthophoniste se déplace à votre domicile ou dans le milieu de garde de votre enfant afin que les interventions soient naturelles et adaptées à vos besoins."
 +++
 
 ### Votre enfant a besoin de consulter en orthophonie?

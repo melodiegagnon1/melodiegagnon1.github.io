@@ -39,6 +39,12 @@ This column has much less content.
 * C{{% sub "3" %}}H{{% sub "**8**" %}}
 * C{{< sub "3" >}}H{{< sub "**8**" >}}
 
+#### html_wrap
+
+{{< html_wrap >}}
+<p>I'm writing in pure HTML: <b>Bold</b> <i>Italics</i> <u>Underline</u></p>
+{{</ html_wrap >}}
+
 ### Highlight
 
 #### Python

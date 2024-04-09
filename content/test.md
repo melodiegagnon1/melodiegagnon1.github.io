@@ -52,12 +52,13 @@ def main():
 #### HTML
 
 {{< highlight html >}}
-  <html>
-    <head>
-      <title>Page title</title>
-    </head>
-    <body>This HTML</body>
-  </html>
+<html>
+  <head>
+    <title>Page title</title>
+    <meta name="description" content="Page description">
+  </head>
+  <body>This HTML</body>
+</html>
 {{< /highlight >}}
 
 

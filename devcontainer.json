@@ -3,9 +3,7 @@
     "codespaces": {
       "repositories": {
         "mathieugouin/hugo-arcana": {
-          "permissions": {
-            "contents": "write"
-          }
+          "permissions": "write-all"
         }
       }
     }

@@ -44,4 +44,4 @@ jobs:
 
       - name: Print generated files content
         run: |
-          find public/ -name "*.html" | while read f; do echo ****************** Content of $f ******************; cat $f; done
+          find public/ -name "*.html" | while read f; do echo "****************** Content of $f ******************"; cat $f; done

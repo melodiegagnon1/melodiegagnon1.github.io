@@ -14,7 +14,7 @@ jobs:
     env:
       HUGO_VERSION: 0.124.0
     steps:
-      - name: Echo tests
+      - name: Print Job Info
         run: |
           echo "The job was automatically triggered by a ${{ github.event_name }} event."
           echo "This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -37,8 +37,11 @@ jobs:
         run: |
           hugo \
           --gc \
-          --minify \
-          --logLevel info
+          --logLevel debug
 
       - name: List generated files
         run: ls -lAR public/
+
+      - name: Print generated files content
+        run: |
+          find public/ -name "*.html" | while read f; do echo ****************** Content of $f ******************; cat $f; done

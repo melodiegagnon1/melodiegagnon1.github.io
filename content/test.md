@@ -41,7 +41,17 @@ This column has much less content.
 
 ### Highlight
 
-{{< highlight html "linenos=true" >}}
+#### Python
+
+{{< highlight python >}}
+def main():
+    # Print
+    print("hello")
+{{< /highlight >}}
+
+#### HTML
+
+{{< highlight html >}}
   <html>
     <head>
       <title>Page title</title>
@@ -49,6 +59,7 @@ This column has much less content.
     <body>This HTML</body>
   </html>
 {{< /highlight >}}
+
 
 # Heading 1
 

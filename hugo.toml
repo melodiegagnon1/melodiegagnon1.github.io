@@ -42,6 +42,19 @@ theme = 'arcana'
     endLevel = 6
     ordered = false
     startLevel = 3  # Page title is already h2.
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'pygments'
+    tabWidth = 4
 
 ### Menu:
 [menus]

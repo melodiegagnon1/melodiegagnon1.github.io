@@ -1,6 +1,6 @@
 # Orthophonie chez soi
 
-<https://melodiegagnon1.github.io>
+<https://www.orthophoniechezsoi.ca>
 
 ## Hugo Info
 

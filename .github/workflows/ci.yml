@@ -11,8 +11,6 @@ on:
 jobs:
   Build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.124.0
     steps:
       - name: Print Job Info
         run: |
@@ -20,22 +18,21 @@ jobs:
           echo "This job is now running on a ${{ runner.os }} server hosted by GitHub!"
           echo "The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
 
-      - name: Install Hugo
-        run: |
-          wget --no-verbose -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-
       - name: Check out repository code
         uses: actions/checkout@v4
         with:
           submodules: recursive
 
+      - name: Install Hugo
+        run: |
+          ./man_install.sh
+
       - name: Versions check
-        run: hugo env
+        run: ./bin/hugo env
 
       - name: Hugo Build
         run: |
-          hugo \
+          ./bin/hugo \
           --gc \
           --logLevel debug
 

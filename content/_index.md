@@ -15,8 +15,8 @@ Cette modalité d'intervention facilite l'observation des habiletés communicati
 
 Nous vous invitons à remplir ce court questionnaire nous permettant de cibler sommairement vos besoins et de vous inscrire sur la liste d'attente. Suite à la réception de votre inscription, il nous fera plaisir de vous contacter lorsqu'une disponibilité se libérera.  Il est important de mentionner qu'il y a un délai dans la prise en charge étant donné le nombre important de demandes reçues. Merci de votre compréhension.
 
-### Liste d'attente
-
-La liste d'attente est temporairement fermée.  Nous réévaluerons la situation en avril 2025.  Merci de votre compréhension.
+{{< button align="center"
+target="_blank"
+href="https://docs.google.com/forms/d/e/1FAIpQLSd6CxQlfaE3MNvfnH5A1L5XYYniLFnLLt71JGXiVmDOkLmHew/viewform?usp=sf_link" >}}Inscription sur la liste d'attente{{< /button >}}
 
 {{< figure src="/images/logo.png" alt="Logo Orthophonie chez soi" width="400" height="127" class="center">}}

@@ -7,7 +7,7 @@ description = "Orthophonie chez soi: De l'orthophonie adaptée à votre enfant! 
 
 Bienvenue à Orthophonie chez soi !
 
-[Mélodie Gagnon](/apropos/ "À propos de Mélodie Gagnon"), orthophoniste cumulant plus de 17 années d'expérience auprès d'une clientèle pédiatrique, offre des [services](/services/ "Liste et description des services offerts") professionnels personnalisés d'évaluation et d'intervention en orthophonie.  Domiciliée à Saint-Hubert sur la rive-sud de Montréal, **elle se déplace à votre domicile ou dans le milieu de garde de votre enfant** afin que les interventions soient naturelles et adaptées à vos besoins.
+[Mélodie Gagnon](/apropos/ "À propos de Mélodie Gagnon"), orthophoniste cumulant plus de 19 années d'expérience auprès d'une clientèle pédiatrique, offre des [services](/services/ "Liste et description des services offerts") professionnels personnalisés d'évaluation et d'intervention en orthophonie.  Domiciliée à Saint-Hubert sur la rive-sud de Montréal, **elle se déplace à votre domicile ou dans le milieu de garde de votre enfant** afin que les interventions soient naturelles et adaptées à vos besoins.
 
 Cette modalité d'intervention facilite l'observation des habiletés communicatives, langagières et de parole de votre enfant ainsi que l'établissement d'objectifs et de moyens liés à ses habitudes de vie tout en considérant le quotidien des parents. De plus, lorsque la situation s'y prête, elle réalise des interventions à distance via la téléorthophonie.
 

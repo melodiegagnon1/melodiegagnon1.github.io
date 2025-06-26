@@ -5,7 +5,7 @@ description = "Orthophonie chez soi offre plusieurs services.  Consultez-les ici
 
 Voici les différents services offerts par Orthophonie chez soi ainsi que les honoraires correspondants.
 
-Les tarifs sont en vigueur à partir du 1{{<sup "er">}} septembre 2023.
+Les tarifs sont en vigueur à partir du 1{{<sup "er">}} septembre 2025.
 
 ### Liste des services
 

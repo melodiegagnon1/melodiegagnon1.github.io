@@ -5,7 +5,7 @@ description = "Orthophonie chez soi offre plusieurs services.  Consultez-les ici
 
 Voici les différents services offerts par Orthophonie chez soi ainsi que les honoraires correspondants.
 
-Les tarifs sont en vigueur à partir du 1{{<sup "er">}} septembre 2025.
+Les tarifs sont en vigueur à partir du 1{{<sup "er">}} septembre 2026.
 
 ### Liste des services
 
@@ -24,7 +24,7 @@ Les interventions étant réalisées au domicile ou dans le milieu de garde, il 
 
 #### Évaluation du langage oral pour la clientèle préscolaire et scolaire
 
-230 $/h
+235 $/h
 
 * 2 à 5 heures d'évaluation incluant la rencontre initiale (motif de consultation, besoins et histoire personnelle)
 * Analyse des données et observations, synthèse et interprétation des résultats
@@ -34,7 +34,7 @@ Les interventions étant réalisées au domicile ou dans le milieu de garde, il 
 
 #### Évaluation du bégaiement pour la clientèle préscolaire et scolaire
 
-230 $/h
+235 $/h
 
 * 2 à 3 heures d'évaluation incluant la rencontre initiale (motif de consultation, besoins et histoire personnelle)
 * Analyse des observations et questionnaires
@@ -45,7 +45,7 @@ Les interventions étant réalisées au domicile ou dans le milieu de garde, il 
 
 #### Évaluation de la parole/articulation pour la clientèle préscolaire et scolaire
 
-230 $/h
+235 $/h
 
 * 2 à 3 heures d'évaluation incluant la rencontre initiale (motif de consultation, besoins et histoire personnelle)
 * Analyse des données et observations, synthèse et interprétation des résultats
@@ -54,7 +54,7 @@ Les interventions étant réalisées au domicile ou dans le milieu de garde, il 
 
 #### Évaluation des troubles orofaciaux myofonctionnels (TOM)
 
-230 $/h
+235 $/h
 
 * 1 à 2 heures d'évaluation incluant la rencontre initiale (motif de consultation, besoins et histoire personnelle)
 * Analyse des données et observations, synthèse et interprétation des résultats
@@ -81,7 +81,7 @@ Les interventions étant réalisées au domicile ou dans le milieu de garde, il 
 
 #### Mise à jour d'un plan d'intervention
 
-210 $/h
+215 $/h
 
 Si vous avez un rapport d'évaluation récent (réalisé à l'intérieur de 6 à 12 mois), nous pouvons évaluer les progrès de l'enfant par rapport aux objectifs ciblés dans le plan d'intervention précédent et actualiser les objectifs à poursuivre. Cependant, l'orthophoniste jugera si le rapport d'évaluation fourni détient suffisamment d'informations. Si ce n'est pas le cas, des tâches d'évaluation complémentaires devront être réalisées.
 
@@ -89,9 +89,9 @@ Si vous avez un rapport d'évaluation récent (réalisé à l'intérieur de 6 à
 
 #### Thérapie/rééducation
 
-* 60 minutes: 140 $
-* 45 minutes: 105 $
-* 30 minutes: 70 $
+* 60 minutes: 145 $
+* 45 minutes: 110 $
+* 30 minutes: 75 $
 
 Le temps des rencontres inclut une discussion avec le parent concernant les activités réalisées à la maison, les observations réalisées durant la rencontre, l'explication de conseils adaptés aux besoins, les objectifs à poursuivre à la maison, la prise du prochain rendez-vous et la facturation.
 
@@ -99,7 +99,7 @@ Pour les interventions réalisées en téléorthophonie, les honoraires sont ide
 
 #### Transfert de dossier
 
-180 $/h
+215 $/h
 
 Si vous avez un rapport d'évaluation récent (réalisé à l'intérieur de 6 à 12 mois), nous pouvons reprendre le dossier sans réaliser une évaluation complète.  Le client déboursera ce montant seulement lors de la première rencontre qui vise à réaliser une mise à jour des besoins et objectifs d'intervention.  Cependant, l'orthophoniste jugera si le rapport d'évaluation fourni détient suffisamment d'informations. Si ce n'est pas le cas, des tâches d'évaluation complémentaires devront être réalisées.
 
@@ -115,7 +115,7 @@ Cela inclut tous les suivis ou échanges à l'extérieur des rencontres d'évalu
 
 #### Complétion de formulaires
 
-70 $
+75 $
 
 #### Frais de déplacement
 
@@ -125,6 +125,6 @@ Cela inclut tous les suivis ou échanges à l'extérieur des rencontres d'évalu
 
 #### Rédaction d'un bilan d'évolution à la demande du client
 
-180 $/document
+215 $/document
 
 Cela inclut les coûts de transcription et/ou reproduction et/ou transmission du document selon le cas échéant.
